@@ -3,7 +3,7 @@
 	"type": "package",
 	"author": "Nathanaël Lécaudé",
 	"description": "This is a Test Package",
-	"version": "1",
+	"version": "2",
 	"major_version": "1",
 	"minor_version": "0",
 	"min_max_version": "612",
@@ -15,5 +15,5 @@
 	"link_win32": "None",
 	"link_win64": "None",
 	"relative_path": "None",
-	"alert_text": "None"
+	"alert_text": "This is an alert\nNewline here"
 }
